@@ -1,7 +1,7 @@
 ---
-title: '"Introduction"'
+title: Introduction
 draft: false
 tags:
   - example-tag
 ---
- Intro goes here
+Intro goes here
